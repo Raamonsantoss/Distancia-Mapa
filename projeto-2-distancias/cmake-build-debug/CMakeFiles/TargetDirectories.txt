@@ -1,0 +1,3 @@
+C:/Users/Ramon/CLionProjects/projeto-2-fila_de_atendimento_jose_pedro_ramon/cmake-build-debug/CMakeFiles/Rec_Projeto2.dir
+C:/Users/Ramon/CLionProjects/projeto-2-fila_de_atendimento_jose_pedro_ramon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ramon/CLionProjects/projeto-2-fila_de_atendimento_jose_pedro_ramon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
